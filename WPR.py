@@ -4,6 +4,7 @@ from optparse import OptionParser
 def clear():
 	os.system('cls')
 
+print()
 print("██╗    ██╗██╗███████╗██╗")
 print("██║    ██║██║██╔════╝██║")
 print("██║ █╗ ██║██║█████╗  ██║")
