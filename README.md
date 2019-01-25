@@ -55,6 +55,7 @@ To view password of any specified Access Point -
 ```
 and choose your desired Acess Point to view its password.
 
+
 To export all the Access Points with its password -
 ```
 \WiFiPassRecovery\$ python WPR.py -o <Output File Name>
