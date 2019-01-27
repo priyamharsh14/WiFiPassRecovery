@@ -1,5 +1,6 @@
 # WiFiPassRecovery
 WiFi Password Recovery tool written in Python3
+__NOTE: Only for Windows Users__
 
 ## Installation:
 Clone the repository -
